@@ -1,18 +1,31 @@
-# Area_calculator_pypro
-HEllo welcome is repo <br>
-THIS is a area calculator<br>
-             Here u can calculate the area of different shapes!<br> 
-             like...<br> 
-             *. RECTANGLE<br> 
-             *. SQUARE<br> 
-             *. CIRCLE<br> 
-             *. TRIANGLE<br> 
-Iam it will help to to get the area of the different shapes<br> 
-THIS is beginer project <br> 
-it include....<br> 
-1. user input<br> 
-2. if else-if condition<br> 
+# 📐 Area Calculator (Python)
 
---------------------------------------------------------------------------------------------------<br> 
-NOTE: you must install python 3.13.7 version in you system and RUN it<br> 
-THANK YOU
+A beginner-friendly Python program that calculates the area of different shapes, based on user input.
+
+---
+
+## ✅ Features
+- Menu-driven interface
+- Supports multiple shapes:
+  - Square
+  - Circle
+  - Rectangle
+  - Triangle 
+- Allows repeated calculations for each selected shape
+- Easy to understand for beginners
+
+---
+
+## 🧮 Formulas Used
+| Shape     | Formula                          |
+|----------|----------------------------------|
+| Square   | Area = side × side               |
+| Circle   | Area = (22/7) × radius²          |
+| Rectangle| Area = length × breadth          |
+| Triangle | Area = 0.5 × base × height       |
+
+---
+
+## ▶️ How to Run
+1. Install **Python 3.13.7
+2. Download or clone this repository:
